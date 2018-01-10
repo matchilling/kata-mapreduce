@@ -1,0 +1,11 @@
+runners:
+  emr:
+    aws_access_key_id:
+    aws_secret_access_key:
+    region:
+    ec2_key_pair:
+    ec2_key_pair_file:
+    ssh_tunnel:
+    instance_type:
+    num_core_instances:
+    subnet:
